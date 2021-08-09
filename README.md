@@ -1,2 +1,1 @@
-# gurusharan
-project
+print("Hello World!")
